@@ -1,0 +1,21 @@
+post: POST
+put: PUT
+delete: DELETE
+get: GET
+name: ideas
+email: ideas@abc.com 
+password: 123456
+createname: vicky
+createemail: vicky@abc.com
+createlocation: usa
+updatename: newname
+updateemail: newname@abc.com
+updatelocation: uk
+negativename: Developer
+negativeemail: v.com
+negativepassword: 123
+negativelocation: a
+contenttype: Content-Type
+appjson: application/json
+auth: Authorization
+bearer: "bearer " 
